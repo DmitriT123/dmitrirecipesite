@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Here is a blog post sample
-date: 2020-06-24 17:50
-header_feature_image: /uploads/867FAB82-62D7-4C53-8EDC-5114095CF8AA.jpeg
-caption: Cobbles
+title: Finding My Recipe's
+date: 2021-02-18T15:24:10.772Z
+header_feature_image: ../uploads/3df878a1f2a00182c115b3010b415a72.jpg
+title_color: "#79bfba"
+caption: ""
+comments: true
 ---
 
 **Please do not edit this post.** You should create a new post and then delete this sample when you are ready. Do not delete this post until you have created at least one of your own. This first paragraph will appear on the home page as a preview of the post. The rest below this paragraph will appear on the blog post page. Only the first paragraph will appear on the home page.
