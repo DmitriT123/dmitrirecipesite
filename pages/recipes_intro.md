@@ -13,3 +13,5 @@ With french savoury staples such as Beef Bourguignon and comforting confectioner
 ![French At Home Cover](../uploads/frenchathome2.jpg)
 
 This collection of recipes is perfect for anyone devoted to the elegant art of cooking, and food, staples within the art itself.
+
+[/recipes/](/recipes/)
