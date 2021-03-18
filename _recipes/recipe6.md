@@ -1,7 +1,7 @@
 ---
 title: ONE-POT FRENCH ONION SOUP WITH GARLIC-GRUYERE CROUTONS by Philippe
   Bertineau, adapted by Melissa Clark
-order: 1
+order: 6
 date: 2021-03-18T16:31:07.564Z
 layout: recipe
 published: true
