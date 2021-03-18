@@ -1,7 +1,7 @@
 ---
 title: COQ AU VIN by Melissa Clark
 order: 2
-date: 2019-10-19
+date: 2021-03-18T16:17:39.884Z
 layout: recipe
 published: true
 tags: null
