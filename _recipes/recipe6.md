@@ -1,55 +1,47 @@
 ---
-layout: recipe #this will be a basic page with styles coming from content.css
-title: Recipe 6
-date: 2019-10-19
+title: ONE-POT FRENCH ONION SOUP WITH GARLIC-GRUYERE CROUTONS by Philippe
+  Bertineau, adapted by Melissa Clark
+order: 6
+date: 2021-03-18T16:31:07.564Z
+layout: recipe
 published: true
-order: 1
 tags:
   - Greek
   - Meat
   - Hot
 ---
+“I don’t make onion soup at home partly because I lack the flameproof bowls that chefs run under the broiler to melt the cheese. And what’s the point of making onion soup without the elastic cap of gooey Gruyère? The more I pondered this, the more I wondered if I could skip those individual bowls, layer the croutons and cheese directly into the soup pot, and just broil the whole thing.” - Melissa Clark
 
-This is just some sample content to show you what _markdown_ looks like. There are variations on this basic recipe, sometimes with no sauce, sometimes with other vegetables. The most common variant in Greece may include zucchini (courgette), part-fried potatoes or sautéed mushrooms in addition to the eggplant.
+![Moussaka](../uploads/french-onion-soup-articlelarge.jpg)
 
-![Moussaka](../uploads/moussaka.jpg)
+# Ingredients
 
+* ¼ cup extra-virgin olive oil
+* 4 pounds oxtail or beef shoulder, cut into 1- or 2-inch pieces
+*  Salt
+* 8 medium onions
+* 4 celery stalks, coarsely chopped
+* 4 medium carrots, peeled and coarsely chopped
+* 2 bay leaves
+* 4 thyme sprigs
+* 8 tablespoons (1 stick) unsalted butter
+*  Black pepper
+* 1 cup port wine
+*  Lemon juice, to taste, optional
+* 6 ounces baguette loaf, cut into 1/2-inch-thick slices
+* 2 garlic cloves, halved
+* 8 ounces Gruyère cheese
 
-## Ingredients
+# Preparation
 
-- 1 kg aubergines (large or/and elongated variety)
-- 160 ml vegetable oil (about 1 teacup)
-- 1 large onion, finely sliced
-- 450 grams minced beef
-- 1 glass white wine (not retsina, but aretsinoto)
-- 350 grams fresh tomatoes,
-- 1400 grams tomatoes, drained of some of their juice and chopped
-- teaspoon ground cinnamon
-- teaspoon ground allspice
-- salt and black pepper
-- 1 teaspoon oregano
-- 25 grams grated Parmesan, Kefalotiri, or Gruyere cheese
-- some chopped parsley
-- 80 grams butter
-- 80 grams flour
-- 600 ml warm milk
-- 30 grams grated Parmesan or Gruyere cheese
-- 2 egg yolks
-- 4 tablespoons toasted breadcrumbs
+1. Heat the oil in a 6-quart Dutch oven over high heat. Add the oxtail (or beef shoulder) in a single layer (work in batches, if necessary to avoid crowding the pan), and sear until the undersides are brown (do not turn). Season generously with salt and transfer to a plate.
+2. Coarsely chop two of the onions; add to the pot, along with the celery, carrots, bay leaves and thyme. Lower heat to medium and cook, stirring occasionally, until vegetables are soft and beginning to caramelise, about 10 minutes. Return the beef to the pot. Pour in 8 cups of water. Simmer mixture gently until the meat is very tender, 2 1/2 to 3 hours.
+3. Transfer beef to a bowl and let cool for another use. Strain liquid into a bowl over a fine-mesh sieve; press gently on the solids with the back of a spatula to extract as much flavour as possible. Discard the solids; you should have about 10 cups broth (add water if necessary to equal 10 cups).
+4. Halve the remaining 6 onions through the root end, then peel and thinly slice them lengthwise. Melt the butter in the bottom of the Dutch oven over medium heat. Add the onions and cook, tossing occasionally, until deep golden-brown and caramelised, 45 minutes to 1 hour. Season with 1 teaspoon salt and black pepper. Pour in the port and cook, scraping up any browned bits from the bottom of the pan, for 3 minutes. Pour in the broth and simmer mixture over low heat for 30 minutes. Season with salt and lemon juice, if desired. (For a smaller group, you could refrigerate some of the soup and reheat it later.)
+5. While the broth simmers, heat the oven to 350 degrees. Arrange the bread slices on a baking sheet and toast until golden, about 12 minutes. Rub the garlic halves over the surface of the bread.
+6. Heat the broiler and arrange a rack 4 to 6 inches from the flame. Using a cheese slicer, thinly slice 3 ounces of Gruyère. Coarsely grate the remaining cheese. Float the broiled bread over the surface of the hot soup. Layer the cheese slices over the bread; scatter the grated cheese over it. Transfer the Dutch oven to the oven and broil until the cheese is golden and bubbling, 3 to 5 minutes (watch to see that it does not burn).
+7. To serve, use kitchen shears or scissors to cut the bread and cheese into portions. Ladle soup, bread and cheese into individual bowls.
 
+### TIP
 
-## Method
-
-Moussaka should be baked in the oven. Use a roasting container, either square or oblong, approximately 25 x 25 cm or 39 x 28 cm. It is recommended that you spread the work involved over two days for your convenience; one can easily cook the meat the day before, without the Moussaka suffering at all. Do not do the same with the aubergines; they should be fried on the day.
-
-Top and tail the aubergines, without peeling them. Rinse them, cut them lengthways in 75-mm thick slices and immerse them in salted water, for 30 minutes. Take them out, squeeze gently, rinse, then squeeze them again. Drain them in a colander and pat dry. Fry them in hot vegetable oil until they become pale golden on both sides; you can either deep-fry them, which is easier but they absorb a lot of oil, or shallow-fry them. In either case, drain them on absorbent paper on a flat platter before serving, so that most of their oil will dribble away.
-
-Sautee the sliced onion in 2 tablespoons vegetable oil, until it looks glistening. Add the meat and sauté together, stirring, until all the lumps are broken down and the meat starts to change colour. Pour in the wine, add tomatoes, sliced finely, the spices, salt and pepper and the oregano. Cover and cook for 20 minutes, stirring from time to time in case it sticks. Then mix in the grated cheese and parsley.
-Melt the butter and, away from the heat, gradually add the flour and stir to amalgamate. Return to the heat and gradually add the milk and seasoning, stirring continuously. Simmer for 9-10 minutes, stirring, until it has thickened considerably. Withdraw the pan from the heat, let it stand briefly, then add the cheese and the egg yolks. Stir to amalgamate them. Do not let the sauce boil after this.
-
-It should by now be a thick béchamel, to enable it to sit on top of the meat mixture and form a kind of crust.
-
-To assemble, cover the base of the roasting dish with half of the fried aubergines, then spread half of the meat mixture evenly on top of them and cover neatly with the remaining aubergines. Spread the remaining meat and sauce evenly over the top and cover neatly with the béchamel sauce. Sprinkle the grated cheese all over the top, and the breadcrumbs. Moussaka from Macedonia may contain a layer of thinly sliced round potatoes which have been fried first. Bake in a pre-heated oven, gas no.4/ 350 grades F/ 180 grades C, for 1 hour, until a golden crust is formed all over the top. Let it stand for 5 minutes before serving, in order to be able to cut it more easily. To serve, cut into square or oblong-shaped pieces, about 8 cm thick. It should be quite dry by then and the pieces should ideally stay intact.
-
-- Serves: 6
-- Preparation time: 1 hour
+*To broil the soup in individual bowls, place 8 ovenproof bowls on a baking sheet. Fill with hot soup, top with broiled bread, shaved cheese and grated cheese, and run under the broiler until golden and bubbling. You may need to prepare it in batches.*
