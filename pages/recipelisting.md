@@ -1,7 +1,7 @@
 ---
 layout: recipeslisting
-title: This is the title
+title: French At Home Recipes
 permalink: /allrecipes
 published: true
-show: false
+show: true
 ---
