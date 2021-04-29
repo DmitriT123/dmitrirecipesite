@@ -2,7 +2,7 @@
 layout: post
 title: Designing The "French At Home" Cover
 date: 2021-03-04T13:23:44.332Z
-header_feature_image: ../uploads/recipebook.jpg
+header_feature_image: ../uploads/frenchathome2.jpg
 title_color: "#ffffff"
 caption: French At Home Book Cover
 comments: false
